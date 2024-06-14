@@ -1,0 +1,8 @@
+﻿  openmp.cpp
+C:\Users\kostr\source\repos\openmp\openmp\openmp.cpp(45,18): warning C4101: thread_number: неиспользованная локальная переменная
+  Создание кода
+  3 of 112 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  openmp.vcxproj -> C:\Users\kostr\source\repos\openmp\x64\Release\openmp.exe

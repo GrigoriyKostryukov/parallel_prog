@@ -1,0 +1,2 @@
+﻿  mpi_mul.cpp
+C:\Users\kostr\source\repos\mpi_mul\mpi_mul\mpi_mul.cpp(1,10): fatal error C1083: Не удается открыть файл включение: mpi.h: No such file or directory,

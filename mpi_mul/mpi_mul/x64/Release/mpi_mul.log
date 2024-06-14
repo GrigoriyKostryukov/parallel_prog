@@ -1,0 +1,8 @@
+﻿  mpi_mul.cpp
+C:\Users\kostr\source\repos\mpi_mul\mpi_mul\mpi_mul.cpp(85,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  1 of 32 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  mpi_mul.vcxproj -> C:\Users\kostr\source\repos\mpi_mul\x64\Release\mpi_mul.exe
